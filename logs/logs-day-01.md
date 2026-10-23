@@ -17,6 +17,6 @@ I checked all the virtual machines and they are all working properly.
 
 ## Screenshot
 
-![All 4 VMs running in VMware Workstation]("C:\Virtual Machines\Screenshots\4 vms.png")
+![All 4 VMs running in VMware Workstation](images/day-01-vms.png)
 
 *Screenshot added on 23 Oct 2026 (I forgot to add it on Day 1).*
