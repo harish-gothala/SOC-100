@@ -1,17 +1,22 @@
-today i installed VMware workstation pro in my laptop and build 4 virtual machines for my soc journey. 
+# Day 1 – Lab Setup
 
-1.SIEM Sever
-in this i used ubuntu-26.04.1-live-server-amd64, iso image
+Today I installed VMware Workstation Pro on my laptop and built 4 virtual machines for my SOC journey.
 
-2.Windows Endpoint
-in this vm, i used 26200. cleintenterpriseeal-ormet-x64, iso image or os
+## Virtual Machines
 
-3.Linux Endpoint
-in this i used ubuntu-26.04.1-desktop-amd64
+| # | Role | OS / ISO used |
+|---|------|---------------|
+| 1 | SIEM Server | ubuntu-26.04.1-live-server-amd64.iso |
+| 2 | Windows Endpoint | Windows 11 Enterprise Eval (build 26200) – paste exact ISO filename here |
+| 3 | Linux Endpoint | ubuntu-26.04.1-desktop-amd64.iso |
+| 4 | Attacker | kali-linux-2026.2-vmware-amd64 |
 
-4.Kali linux (attacker)
-in this vm, i used  kali-liux-2026.2-vmware-amd64, iso image
+## Verification
 
+I checked all the virtual machines and they are all working properly.
 
+## Screenshot
 
-i checked all virtual machines, they are all working perfectly, thats it for today!
+![All 4 VMs running in VMware Workstation](images/day-01-vms.png)
+
+*Screenshot added on 23 Oct 2026 (I forgot to add it on Day 1).*
