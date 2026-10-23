@@ -20,3 +20,4 @@ I checked all the virtual machines and they are all working properly.
 ![All 4 VMs running in VMware Workstation](images/day-01-vms.png)
 
 *Screenshot added on 23 Oct 2026 (I forgot to add it on Day 1).*
+<img width="959" height="539" alt="4 vms" src="https://github.com/user-attachments/assets/a3e6168a-da60-45bd-ac4e-ec06f1d2f254" />
